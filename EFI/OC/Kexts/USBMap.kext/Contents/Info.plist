@@ -86,21 +86,21 @@
 					</dict>
 					<key>HS05</key>
 					<dict>
-						<key>#port</key>
+						<key>UsbConnector</key>
+						<integer>255</integer>
+						<key>port</key>
 						<data>
 						BwAAAA==
 						</data>
-						<key>UsbConnector</key>
-						<integer>255</integer>
 					</dict>
 					<key>HS06</key>
 					<dict>
-						<key>#port</key>
+						<key>UsbConnector</key>
+						<integer>255</integer>
+						<key>port</key>
 						<data>
 						CgAAAA==
 						</data>
-						<key>UsbConnector</key>
-						<integer>255</integer>
 					</dict>
 					<key>SS01</key>
 					<dict>
